@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+#title {
+    background-color: khaki;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#main {
+    background-color: lightcyan;
+}
+
+.btn {
+    background-color: lightgreen;
+}
